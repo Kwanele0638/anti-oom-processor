@@ -115,7 +115,6 @@ Para visualizar a eficiência de memória em tempo real sem ferramentas externas
 1.  Abra o arquivo `test-client.html` no seu navegador (arraste e solte o arquivo).
 2.  Rode o script de upload no seu terminal: `npm run upload`.
 3.  Acompanhe a atualização do dashboard via **Server-Sent Events** enquanto o uso de RAM permanece estável.
-```
 
 ---
 

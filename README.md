@@ -115,7 +115,6 @@ To visualize the memory efficiency in real-time without external tools:
 1.  Open the file `test-client.html` in your browser (drag and drop the file).
 2.  Run the upload script in your terminal: `npm run upload`.
 3.  Watch the dashboard update via **Server-Sent Events** while the RAM usage remains flat.
-```
 
 ---
 
